@@ -1,5 +1,7 @@
-4K频道,#genre#
+8k4K频道,#genre#
 
+北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+cctv8k_36m,http://192.168.6.1:35455/gaoma/cctv8k_36m.m3u8
 CCTV-16-4K-HEVC,http://192.168.6.1:35455/itv/5000000008000023254.m3u8?cdn=bestzb
 cctv164k_10m,http://192.168.6.1:35455/gaoma/cctv4k16_10m.m3u8
 cctv164k,http://192.168.6.1:35455/gaoma/cctv4k16.m3u8
@@ -82,8 +84,6 @@ CCTV-16,http://192.168.6.1:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 cctv17-高码,http://192.168.6.1:35455/gaoma/cctv17.m3u8
 CCTV-17,http://192.168.6.1:35455/itv/1000000006000268004.m3u8?cdn=ystenlive
 CCTV-17-HEVC,http://192.168.6.1:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
-
-央视频道,#genre#
 CCTV1 综合,http://192.168.6.1:50101/6000000001000029752/wasusyt/index.m3u8$8M1080_华数
 CCTV1 综合,http://192.168.6.1:50101/1000000001000018602/ystenlive/index.m3u8$8M1080_易视腾
 CCTV1 综合,http://192.168.6.1:50101/5000000004000002226/bestzb/index.m3u8$7.5M1080_百视通
@@ -192,17 +192,6 @@ cgtnfr-高码,http://192.168.6.1:35455/gaoma/cgtnfr.m3u8
 cgtnru-高码,http://192.168.6.1:35455/gaoma/cgtnru.m3u8
 cgtnsp-高码,http://192.168.6.1:35455/gaoma/cgtnsp.m3u8
 
-
-
-
-
-
-8K频道,#genre#
-
-北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-cctv8k_36m,http://192.168.6.1:35455/gaoma/cctv8k_36m.m3u8
-
-
 卫视,#genre#
 
 北京卫视,http://192.168.6.1:35455/itv/6000000001000020451.m3u8?cdn=wasusyt
@@ -258,8 +247,6 @@ cctv8k_36m,http://192.168.6.1:35455/gaoma/cctv8k_36m.m3u8
 浙江卫视-HEVC,http://192.168.6.1:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
 重庆卫视,http://192.168.6.1:35455/itv/1000000001000001096.m3u8?cdn=ystenlive
 重庆卫视-HEVC,http://192.168.6.1:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
-
-卫视频道,#genre#
 安徽卫视,http://192.168.6.1:50101/6000000001000009954/wasusyt/index.m3u8$8M1080_华数
 安徽卫视,http://192.168.6.1:50101/1000000001000030159/ystenlive/index.m3u8$8M1080_易视腾
 安徽卫视,http://192.168.6.1:50101/5000000004000023002/bestzb/index.m3u8$7.5M1080_百视通
